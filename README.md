@@ -83,8 +83,8 @@
             </td>
         </tr>
         <tr>
-            <td> 2 </td>
-            <td> 08. 18(수) </td>
+            <td> 3 </td>
+            <td> 08. 25(수) </td>
             <td> 
                 <ul>
                     <li>6장 가상 네트워크 서비스 Amazon VPC</li>
