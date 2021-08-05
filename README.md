@@ -1,4 +1,4 @@
-<img width="15%" src="./img/onesell_logo.jpeg">
+<img width="30%" src="./img/onesell_logo.jpeg">
 
 <br />
 
