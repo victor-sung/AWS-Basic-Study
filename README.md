@@ -1,6 +1,8 @@
 <img width="30%" src="./img/onesell_logo.jpeg">
 
 <br />
+<h1>공부해서 남 주자</h1>
+<br />
 
 ## 주제
 
