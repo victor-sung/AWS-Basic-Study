@@ -58,7 +58,8 @@
         <tr>
             <td> 2 </td>
             <td> 08. 18(수) </td>
-            <td> 4장 서버 서비스 Amazon EC2 / 5장 스토리지 서비스 Amazon S3</td>
+            <td> <ul>
+                <li>4장 서버 서비스 Amazon EC2</li> <li>/ 5장 스토리지 서비스 Amazon S3</li></ul></td>
             <td> 
                 <a href="">
                 강동현 : -
