@@ -1,5 +1,8 @@
 # ONESELL-STUDY
-<img src="./img/onesell_logo.jpeg">
+<p align="center">
+    <img width="7%" src="./img/onesell_logo.jpeg">
+</p>
+
 <br />
 <h3>팀원 : 강동현, 유찬영, 성준모, 배진우</h3>
 <br />
