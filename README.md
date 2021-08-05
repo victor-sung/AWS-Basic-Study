@@ -55,6 +55,46 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 08. 18(수) </td>
+            <td> 4장 서버 서비스 Amazon EC2 / 5장 스토리지 서비스 Amazon S3</td>
+            <td> 
+                <a href="">
+                강동현 : -
+                </a><br>
+                <a href="">
+                유찬영 : -
+                </a><br>
+                <a href="">
+                성준모 : -
+                </a><br>
+                <a href="">
+                배진우 : -
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 08. 18(수) </td>
+            <td> 6장 가상 네트워크 서비스 Amazon VPC / 7장 데이터베이스 서비스 Amazon RDS / 8장 알아 두면 좋은 AWS 서비스</td>
+            <td> 
+                <a href="">
+                강동현 : -
+                </a><br>
+                <a href="">
+                유찬영 : -
+                </a><br>
+                <a href="">
+                성준모 : -
+                </a><br>
+                <a href="">
+                배진우 : -
+                </a>
+            </td>
+        </tr>
+        
+        
   </tbody>
   </table>
   
