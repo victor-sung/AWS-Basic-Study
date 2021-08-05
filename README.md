@@ -1,6 +1,5 @@
 # ONESELL-STUDY
 <img src="./img/onesell_logo.jpeg">
-<h1> 그림으로 이해하는 AWS구조와 기술</h1>
 <br />
 <h3>팀원 : 강동현, 유찬영, 성준모, 배진우</h3>
 <br />
@@ -55,4 +54,4 @@
 ## 📚  학습 자료
 
 - __책__
-    - [Yes24. 스프링 입문을 위한 자바 객체 지향의 원리와 이해](http://www.yes24.com/Product/Goods/17350624?OzSrank=1)
+    - [그림으로 이해하는 AWS구조와 기술](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=351638637&gclid=CjwKCAjwmK6IBhBqEiwAocMc8vI2jP-x_xzLGci7a2YEBYvYe0GxzWvvZxIdN1P3KSyFQ-ve81PNARoCQaAQAvD_BwE)
