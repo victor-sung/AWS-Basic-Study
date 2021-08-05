@@ -1,4 +1,3 @@
-## ONESELL-STUDY
 <img width="15%" src="./img/onesell_logo.jpeg">
 
 <br />
