@@ -58,6 +58,5 @@
 
 
 
-<p align="center">
-    <img src="./img/onesell_logo.jpeg">
-</p>
+
+<img width="10%" src="./img/onesell_logo.jpeg">
