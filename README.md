@@ -39,27 +39,10 @@
         <tr>
             <td> 2 </td>
             <td> 08. 11(수) </td>
-            <td> 1장 아마존 웹 서비스 기초 지식 / 2장 AWS를 이해하기 위한 클라우드&네트워크의 구조 / 3장 AWS를 사용하기 위한 도구</td>
-            <td> 
-                <a href="">
-                강동현 : -
-                </a><br>
-                <a href="">
-                유찬영 : -
-                </a><br>
-                <a href="">
-                성준모 : -
-                </a><br>
-                <a href="">
-                배진우 : -
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td> 2 </td>
-            <td> 08. 18(수) </td>
             <td> <ul>
-                <li>4장 서버 서비스 Amazon EC2</li> <li>/ 5장 스토리지 서비스 Amazon S3</li></ul></td>
+                <li>1장 아마존 웹 서비스 기초 지식</li>
+                <li>2장 AWS를 이해하기 위한 클라우드&네트워크의 구조</li>
+                <li>3장 AWS를 사용하기 위한 도구</li></ul></td>
             <td> 
                 <a href="">
                 강동현 : -
@@ -78,7 +61,35 @@
         <tr>
             <td> 2 </td>
             <td> 08. 18(수) </td>
-            <td> 6장 가상 네트워크 서비스 Amazon VPC / 7장 데이터베이스 서비스 Amazon RDS / 8장 알아 두면 좋은 AWS 서비스</td>
+            <td> 
+                <ul>
+                <li>4장 서버 서비스 Amazon EC2</li> 
+                <li>5장 스토리지 서비스 Amazon S3</li>
+                </ul>
+            </td>
+            <td> 
+                <a href="">
+                강동현 : -
+                </a><br>
+                <a href="">
+                유찬영 : -
+                </a><br>
+                <a href="">
+                성준모 : -
+                </a><br>
+                <a href="">
+                배진우 : -
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td> 2 </td>
+            <td> 08. 18(수) </td>
+            <td> 
+                <ul>
+                    <li>6장 가상 네트워크 서비스 Amazon VPC</li>
+                    <li>7장 데이터베이스 서비스 Amazon RDS</li>
+                    <li>8장 알아 두면 좋은 AWS 서비스</li></ul></td>
             <td> 
                 <a href="">
                 강동현 : -
