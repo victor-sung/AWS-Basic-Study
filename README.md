@@ -1,6 +1,6 @@
 # ONESELL-STUDY
 <p align="center">
-    <img width="7%" src="./img/onesell_logo.jpeg">
+    <img src="./img/onesell_logo.jpeg">
 </p>
 
 <br />
