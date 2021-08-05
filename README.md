@@ -1,7 +1,4 @@
-# ONESELL-STUDY
-<p align="center">
-    <img src="./img/onesell_logo.jpeg">
-</p>
+## ONESELL-STUDY
 
 <br />
 <h3>팀원 : 강동현, 유찬영, 성준모, 배진우</h3>
@@ -58,3 +55,9 @@
 
 - __책__
     - [그림으로 이해하는 AWS구조와 기술](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=351638637&gclid=CjwKCAjwmK6IBhBqEiwAocMc8vI2jP-x_xzLGci7a2YEBYvYe0GxzWvvZxIdN1P3KSyFQ-ve81PNARoCQaAQAvD_BwE)
+
+
+
+<p align="center">
+    <img src="./img/onesell_logo.jpeg">
+</p>
