@@ -1,5 +1,5 @@
 # ONESELL-STUDY
-<img src="./img/onesell_log.jpeg">
+<img src="./img/onesell_logo.jpeg">
 <h1> 그림으로 이해하는 AWS구조와 기술</h1>
 <br />
 <h3>팀원 : 강동현, 유찬영, 성준모, 배진우</h3>
