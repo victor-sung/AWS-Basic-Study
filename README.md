@@ -46,7 +46,7 @@
                 <li>4장 서버 서비스 Amazon EC2</li> 
                 </ul></td>
             <td> 
-                <a href="">
+                <a href="https://github.com/donggu1105/AWS-Basic-Study/blob/master/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20AWS%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EA%B8%B0%EC%88%A0/2%EC%9E%A5%20AWS%EB%A5%BC%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B5%AC%EC%A1%B0/%EA%B0%95%EB%8F%99%ED%98%84/%EA%B0%80%EC%83%81%ED%99%94%EA%B8%B0%EC%88%A0.md">
                 강동현 : -
                 </a><br>
                 <a href="">
