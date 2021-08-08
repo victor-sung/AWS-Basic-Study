@@ -52,8 +52,8 @@
                 <a href="">
                 유찬영 : -
                 </a><br>
-                <a href="">
-                성준모 : -
+                <a href="https://github.com/donggu1105/AWS-Basic-Study/blob/master/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20AWS%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EA%B8%B0%EC%88%A0/study_victor_1.md">
+                성준모 : - test
                 </a><br>
                 <a href="">
                 배진우 : -
